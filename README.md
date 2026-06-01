@@ -102,10 +102,8 @@ print(x.real)
 print(x.imag)
 ```
 ## Output
-```
-<img width="1258" height="310" alt="Screenshot 2026-06-01 143104" src="https://github.com/user-attachments/assets/af4e49bb-e701-4579-9551-86b96974837e" />
+<img width="1258" height="310" alt="Screenshot 2026-06-01 143104" src="https://github.com/user-attachments/assets/06b0c263-5cb6-4054-bdd7-394430b4b39e" />
 
-```
 ## Result
 Thus ,the program has been executed successfully.
 
