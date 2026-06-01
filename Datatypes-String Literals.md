@@ -9,15 +9,7 @@ To write a Python program to read a string from the user and then print it.
 3. Print the value stored in the variable.
 
 ## 🧾 Program
-```
-name = input("Enter a string: ")
-print("You entered:", name)
-```
 
 ## Output
-```
-Enter a string: Hello Python
-You entered: Hello Python
-```
 ## Result
-  Thus ,the program has been executed successfully.
+
