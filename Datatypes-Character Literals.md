@@ -8,17 +8,6 @@ To write a Python program that prints the characters `'T'` and `'a'` using chara
 2. Print the character `'a'`.
 
 ## 🧾 Program
-```
-ch = 'A'
-print("Character:", ch)
-print("Type:", type(ch))
-```
-
 ## Output
-```
-Character: A
-Type: <class 'str'>
-```
 
 ## Result
-Thus ,the program has been executed successfully.
