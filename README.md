@@ -41,16 +41,20 @@ To write a Python program that evaluates and prints the results of boolean and a
 
 ## 💻 Program
 ```
-a = 10
-b = 5
+a = (1 == True)
+b = (0== False)
+c = True + True
+d = False + 9
 
-print(a > b)
-print(a == b)
-print(a < b)
+print(f"a is {False}")
+print(f"b is {b}")
+print("c:",c)
+print("d:",d)
 ```
 
 ## Output
-<img width="1298" height="433" alt="Screenshot 2026-06-01 105847" src="https://github.com/user-attachments/assets/8b0989e9-5929-4fa0-8447-9a74ebc3bdce" />
+<img width="1250" height="339" alt="Screenshot 2026-06-01 142837" src="https://github.com/user-attachments/assets/e0a108bc-c8a5-450d-a964-bddc694f54b9" />
+
 
 ## Result
   Thus,the program has been executed successfully.
@@ -64,12 +68,14 @@ Print the character 'T'.
 Print the character 'a'.
 ## Program
 ```
-ch = 'A'
-print("Character:", ch)
-print("Type:", type(ch))
+char1='T'
+char2='A'
+print(char1)
+print(char2)
 ```
 ## Output
-<img width="1337" height="375" alt="Screenshot 2026-06-01 110046" src="https://github.com/user-attachments/assets/da8b19ea-9738-4c56-b8d8-9c5442fb5484" />
+<img width="1267" height="308" alt="Screenshot 2026-06-01 142909" src="https://github.com/user-attachments/assets/32f58981-1bcc-4ab7-926a-58a495934eca" />
+
 
 ## Result
 Thus ,the program has been executed successfully.
@@ -88,14 +94,18 @@ Print the real part of x using x.real.
 Print the imaginary part of x using x.imag.
 ## Program
 ```
-num = 3 + 4j
-print("Complex Number:", num)
-print("Type:", type(num))
+a=int(input()) 
+b=int(input()) 
+x=complex(a,b) 
+print(x) 
+print(x.real) 
+print(x.imag)
 ```
 ## Output
+```
+<img width="1258" height="310" alt="Screenshot 2026-06-01 143104" src="https://github.com/user-attachments/assets/af4e49bb-e701-4579-9551-86b96974837e" />
 
-<img width="1322" height="333" alt="Screenshot 2026-06-01 110253" src="https://github.com/user-attachments/assets/3d3864f3-a835-434e-bc52-d181ae5b8fdb" />
-
+```
 ## Result
 Thus ,the program has been executed successfully.
 
