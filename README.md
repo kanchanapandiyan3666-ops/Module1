@@ -11,12 +11,13 @@ Else, print "ODD".
 End the program.
 
 ## Program
+```
 num = int(input("Enter a number: "))
 if num % 2 == 0:
     print("Even Number")
 else:
     print("Odd Number")
-    
+```   
 ## Output
 <img width="1364" height="374" alt="Screenshot 2026-06-01 105343" src="https://github.com/user-attachments/assets/6d3831af-a6b8-4941-bb7d-f11e05d40dce" />
 
@@ -62,11 +63,11 @@ To write a Python program that prints the characters 'T' and 'a' using character
 Print the character 'T'.
 Print the character 'a'.
 ## Program
-
+```
 ch = 'A'
 print("Character:", ch)
 print("Type:", type(ch))
-
+```
 ## Output
 <img width="1337" height="375" alt="Screenshot 2026-06-01 110046" src="https://github.com/user-attachments/assets/da8b19ea-9738-4c56-b8d8-9c5442fb5484" />
 
@@ -86,10 +87,11 @@ Print the complex number x.
 Print the real part of x using x.real.
 Print the imaginary part of x using x.imag.
 ## Program
-
+```
 num = 3 + 4j
 print("Complex Number:", num)
 print("Type:", type(num))
+```
 ## Output
 
 <img width="1322" height="333" alt="Screenshot 2026-06-01 110253" src="https://github.com/user-attachments/assets/3d3864f3-a835-434e-bc52-d181ae5b8fdb" />
@@ -106,8 +108,10 @@ Assign a variable named men_stepped_on_the_moon.
 Use input() to read a string from the user and store it in the variable.
 Print the value stored in the variable.
 ## Program
+```
 name = input("Enter a string: ")
 print("You entered:", name)
+```
 ## Output
 <img width="1415" height="383" alt="Screenshot 2026-06-01 110441" src="https://github.com/user-attachments/assets/05cea27d-eb56-42f1-b146-82c23c52ca57" />
 
