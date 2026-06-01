@@ -15,20 +15,6 @@ To write a Python program that evaluates and prints the results of boolean and a
 8. Print the value of `d` with the label "d:".
 
 ## 💻 Program
-```
-a = 10
-b = 5
-
-print(a > b)
-print(a == b)
-print(a < b)
-```
-
 ## Output
-```
-True
-False
-False
-```
 ## Result
-  Thus,the program has been executed successfully.
+  
